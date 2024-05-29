@@ -1,8 +1,8 @@
 # WeatherGFT🌍: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling
 
-### [[Paper]](https://arxiv.org/pdf/2405.13796)
-
 https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8
+
+## [[Paper]](https://arxiv.org/pdf/2405.13796)
 
 ## Abstract 🗂️
 
