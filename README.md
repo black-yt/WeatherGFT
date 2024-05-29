@@ -33,3 +33,14 @@ To quantify the accuracy of the model's generalized nowcasting, we utilize the s
 
 ![compare](assets/tp.png)
 
+
+## BibTeX
+
+```bibtex
+@article{xu2024generalizing,
+  title={Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling},
+  author={Xu, Wanghan and Ling, Fenghua and Zhang, Wenlong and Han, Tao and Chen, Hao and Ouyang, Wanli and Bai, Lei},
+  journal={arXiv preprint arXiv:2405.13796},
+  year={2024}
+}
+```
