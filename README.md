@@ -5,11 +5,12 @@
   </b></h2>
 </div>
 
-https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8
-
 ## [[Paper]](https://arxiv.org/pdf/2405.13796)
 
 🚩 **News** (2024-09-26) WeatherGFT🌍 has been accepted by **NeurIPS 2024**. The code and the camera-ready version will be released soon.
+
+https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8
+
 
 ## Abstract 🗂️
 
