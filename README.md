@@ -5,9 +5,14 @@
   </b></h2>
 </div>
 
-## [[Paper]](https://arxiv.org/pdf/2405.13796)
+## Updates/News 🆕
 
-🚩 **News** (2024-09-26) WeatherGFT🌍 has been accepted by **NeurIPS 2024**. The code and the camera-ready version will be released soon.
+
+🚩 **News** (2024-09-26) WeatherGFT🌍 has been accepted by **NeurIPS 2024** 🎉. The code and the camera-ready version will be released soon.
+
+🚩 **Updates** (2024-05-22) Initial upload to arXiv [[PDF]](https://arxiv.org/pdf/2405.13796).
+
+## Visualization 🌟
 
 https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8
 
