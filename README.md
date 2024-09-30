@@ -1,8 +1,15 @@
-# WeatherGFT🌍: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling
+<!-- # WeatherGFT🌍: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling -->
+
+<div align="center">
+  <h2><b> (NeurIPS'24) WeatherGFT🌍: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling
+  </b></h2>
+</div>
 
 https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8
 
 ## [[Paper]](https://arxiv.org/pdf/2405.13796)
+
+🚩 **News** (2024-09-26) WeatherGFT🌍 has been accepted by **NeurIPS 2024**. The code and the camera-ready version will be released soon.
 
 ## Abstract 🗂️
 
