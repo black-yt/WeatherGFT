@@ -7,6 +7,7 @@
 
 ## Updates/News 🆕
 
+🚩 **Updates** (2024-10-10) The model code **`Models/WeatherGFT.py`** has been released, with more codes set to follow in due course. The model's checkpoint and example of input data have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1fZlr0LS3aFJAym79ojn3njYiUhtdzKF6?usp=sharing).
 
 🚩 **News** (2024-09-26) WeatherGFT🌍 has been accepted by **NeurIPS 2024** 🎉. The code and the camera-ready version will be released soon.
 

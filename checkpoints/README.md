@@ -1,0 +1,1 @@
+Download **`/checkpoints`** from [Google Drive](https://drive.google.com/drive/folders/1fZlr0LS3aFJAym79ojn3njYiUhtdzKF6?usp=sharing).
