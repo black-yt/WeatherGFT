@@ -16,7 +16,8 @@
 ## Visualization 🌟
 
 <!-- https://github.com/black-yt/WeatherGFT/assets/82664952/64094e86-0bf6-4bb7-a520-7b82dc06e2a8 -->
-https://github.com/user-attachments/assets/ba5a9582-82e6-4e74-a710-788e17139476
+<!-- https://github.com/user-attachments/assets/ba5a9582-82e6-4e74-a710-788e17139476 -->
+https://github.com/user-attachments/assets/560bc030-f0b4-48de-af56-7fdccf7d912e
 
 
 ## Abstract 🗂️
