@@ -16,9 +16,7 @@ lightning_logs/
 job/
 job/*.out
 */__pycache__
-*.txt
 *.csv
-*.sh
 wandb/
 build/
 develop-eggs/
