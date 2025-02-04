@@ -1,10 +1,8 @@
 import torch
 import numpy as np
 
-SEDI_t2m_128 = torch.from_numpy(np.load("/mnt/petrelfs/xuwanghan/projects/high_resolution/sedi/Q_SEDI_128/SEDI_t2m.npy"))
-SEDI_ws10_128 = torch.from_numpy(np.load("/mnt/petrelfs/xuwanghan/projects/high_resolution/sedi/Q_SEDI_128/SEDI_ws10.npy"))
-SEDI_t2m_721 = torch.from_numpy(np.load("/mnt/petrelfs/xuwanghan/projects/high_resolution/sedi/Q_SEDI_721/SEDI_t2m.npy"))
-SEDI_ws10_721 = torch.from_numpy(np.load("/mnt/petrelfs/xuwanghan/projects/high_resolution/sedi/Q_SEDI_721/SEDI_ws10.npy"))
+SEDI_t2m_128 = torch.from_numpy(np.load("./Q_SEDI_128/SEDI_t2m.npy"))
+SEDI_ws10_128 = torch.from_numpy(np.load("./Q_SEDI_128/SEDI_ws10.npy"))
 
 @torch.jit.script
 def lat(j: torch.Tensor, num_lat: int) -> torch.Tensor:
@@ -145,12 +143,8 @@ class Metrics():
         pred_real = pred * data_std.view(1, gt.shape[1], 1, 1) + data_mean.view(1, gt.shape[1], 1, 1)
         gt_real = gt * data_std.view(1, gt.shape[1], 1, 1) + data_mean.view(1, gt.shape[1], 1, 1)
 
-        if gt.shape[-2] == 721:
-            SEDI_t2m_device = SEDI_t2m_721[month-1].to(gt.device)
-            SEDI_ws10_device = SEDI_ws10_721[month-1].to(gt.device)
-        else:
-            SEDI_t2m_device = SEDI_t2m_128[month-1].to(gt.device)
-            SEDI_ws10_device = SEDI_ws10_128[month-1].to(gt.device)
+        SEDI_t2m_device = SEDI_t2m_128[month-1].to(gt.device)
+        SEDI_ws10_device = SEDI_ws10_128[month-1].to(gt.device)
         
         sedi_t2m_ws10 = torch.zeros([8]).to(gt.device)
 
